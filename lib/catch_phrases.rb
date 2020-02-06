@@ -24,4 +24,3 @@ def any_phrase(phrase)
   return phrase
 end 
   
-puts any_phrase("Do A Barrel Roll!")
