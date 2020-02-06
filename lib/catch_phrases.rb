@@ -21,10 +21,9 @@ puts link
 
 def any_phrase(phrase)
   phrase = "Do A Barrel Roll!\n"
-  return phrase 
+  return any_phrase(phrase) 
 end 
   
-
 
 
 # describe "any_phrase" do
