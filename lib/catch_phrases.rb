@@ -7,3 +7,5 @@ end
 def toadstool
   puts status
 end
+
+puts mario 
