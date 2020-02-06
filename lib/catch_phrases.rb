@@ -13,8 +13,8 @@ puts mario
 puts toadstool
 
 def link
-  
-  puts "It's Dangerous To Go Alone! Take This."
+  statustwo = "It's Dangerous To Go Alone! Take This."
+  puts statustwo
 end
 
 puts link 
