@@ -11,3 +11,5 @@ end
 puts mario 
 
 puts toadstool
+
+def link
