@@ -19,3 +19,5 @@ end
 
 puts link 
 
+def any_phrase(phrase)
+  
