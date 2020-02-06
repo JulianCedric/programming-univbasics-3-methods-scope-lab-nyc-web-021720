@@ -24,7 +24,6 @@ def any_phrase(phrase)
   return phrase
 end 
   
-puts any_phrase(phrase)
 
 # describe "any_phrase" do
 #   it "takes in an argument and puts out the catch phrase" do
