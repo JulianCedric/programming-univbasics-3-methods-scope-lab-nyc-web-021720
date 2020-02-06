@@ -19,10 +19,3 @@ end
 
 puts link 
 
-# Note to Self: In order for a method to return a value without following the method up with a puts method command, we simply need to replace puts (above) with return. E.G. 
-
-def test
-  status_three = "wooo"
-  return status_three
-end 
-
